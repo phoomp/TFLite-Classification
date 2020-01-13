@@ -1,0 +1,6 @@
+framework module Pods_TFLite_Classification_TFLite_ClassificationUITests {
+  umbrella header "Pods-TFLite-Classification-TFLite-ClassificationUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

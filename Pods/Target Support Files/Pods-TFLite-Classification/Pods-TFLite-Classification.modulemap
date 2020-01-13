@@ -1,0 +1,6 @@
+framework module Pods_TFLite_Classification {
+  umbrella header "Pods-TFLite-Classification-umbrella.h"
+
+  export *
+  module * { export * }
+}
