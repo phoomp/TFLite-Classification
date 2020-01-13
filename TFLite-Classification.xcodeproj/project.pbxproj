@@ -59,6 +59,7 @@
 		1059677E23CA09FF00A56563 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		10698B2F23CB699E000E4CE9 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		108187F323CB7F5400272F54 /* rock_paper_scissors.tflite */ = {isa = PBXFileReference; lastKnownFileType = file; path = rock_paper_scissors.tflite; sourceTree = "<group>"; };
+		10B245DD23CCB3CA00158F17 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		3E10F3D4E3B4DBA01DAB57B8 /* Pods-TFLite-Classification.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TFLite-Classification.release.xcconfig"; path = "Target Support Files/Pods-TFLite-Classification/Pods-TFLite-Classification.release.xcconfig"; sourceTree = "<group>"; };
 		41C60D3EC5B512BE150D0BD5 /* Pods-TFLite-ClassificationTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TFLite-ClassificationTests.release.xcconfig"; path = "Target Support Files/Pods-TFLite-ClassificationTests/Pods-TFLite-ClassificationTests.release.xcconfig"; sourceTree = "<group>"; };
 		58D7FFEC730487F1622BD2C6 /* Pods-TFLite-ClassificationTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TFLite-ClassificationTests.debug.xcconfig"; path = "Target Support Files/Pods-TFLite-ClassificationTests/Pods-TFLite-ClassificationTests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -100,6 +101,7 @@
 		1059674E23CA09F500A56563 = {
 			isa = PBXGroup;
 			children = (
+				10B245DD23CCB3CA00158F17 /* README.md */,
 				108187F323CB7F5400272F54 /* rock_paper_scissors.tflite */,
 				1059675923CA09F600A56563 /* TFLite-Classification */,
 				1059677023CA09FF00A56563 /* TFLite-ClassificationTests */,
