@@ -8,6 +8,6 @@
 - No. of output classes
 - Normalization value: default is both 300, since the width & height of input shape is 300.
 
-3. This project comes with a Podfile. You will not be able to build it unless you perform `pod install` again. If you don't have CocoaPods, [here's how to download it.](https://cocoapods.org). Make sure you are in the project's directory before running the command above.
+3. This project comes with a Podfile. You will not be able to build it unless you perform `pod install` again. If you don't have CocoaPods, [here's how to download it](https://cocoapods.org). Make sure you are in the project's directory before running the command above.
 
 
